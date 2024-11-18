@@ -6,8 +6,7 @@ npm install
 ```
 Executing Code:
 ```bash
-npx tsc
-node merge.js
+npm start
 ```
 Running Unit Tests:
 ```bash
