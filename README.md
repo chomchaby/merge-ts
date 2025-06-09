@@ -1,4 +1,4 @@
-# A typescript project to merge arrays
+# Merge Arrays (without sort function)
 
 Setting Up Dependencies:
 ```bash
